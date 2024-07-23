@@ -3,6 +3,7 @@ rencana konten wpu
 * ES6
 * fremwork java
   - VUe
+  -reach
 -Struktur data dasar
 php
 -terview
