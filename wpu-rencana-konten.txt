@@ -6,6 +6,7 @@ rencana konten wpu
   -reach
 -Struktur data dasar
 php
+  -laravel
 -terview
   -laravel
 -python
