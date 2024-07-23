@@ -2,6 +2,9 @@ rencana konten wpu
 -javascrip
 * ES6
 * fremwork java
+  - VUe
 -Struktur data dasar
 php
 -terview
+  -laravel
+-python
