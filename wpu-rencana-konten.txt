@@ -1,4 +1,6 @@
 rencana konten wpu
 -javascrip
+* ES6
+* fremwork java
 php
 -terview
